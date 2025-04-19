@@ -27,24 +27,21 @@ In your pull request description, you should include:
 | Stephen Ge | 3.111 | https://api.wandb.ai/links/stephenge/cc9sewxe | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | Herman Brunborg | 3.195| https://api.wandb.ai/links/brunborg-cs336/ei5cjuuw | |
-| Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
+| Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
 | Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73 | |
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |
-| Michael Bereket | 3.315 | https://api.wandb.ai/links/mbereket/9sh7thnk | |
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
 | Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
-| Milan Rohatgi | 3.48 | https://api.wandb.ai/links/milanrohatgi/zuet4nhc |  |
 | Ken Liu | 3.549 | https://api.wandb.ai/links/kenziyuliu/58aaug9d |  |
 | Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
-| Ziqing Huang | 3.55 | [https://api.wandb.ai/links/tyltto/rz1kejp](https://api.wandb.ai/links/tyltto/505dcz72) | |
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
@@ -62,4 +59,5 @@ In your pull request description, you should include:
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
+
 | naive baseline |            5.00 |      |                          Verified |
